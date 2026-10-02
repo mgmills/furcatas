@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 60" role="img" aria-label="Furcatas forktail fish logo">
+  <path d="M10 30 C25 10, 60 10, 72 30 C60 50, 25 50, 10 30 Z" fill="#0b4f6c"/>
+  <path d="M70 30 L96 10 L86 30 L96 50 Z" fill="#f2b705"/>
+  <path d="M34 16 L44 4 L50 17 Z" fill="#f2b705"/>
+  <path d="M38 44 L48 56 L52 43 Z" fill="#f2b705"/>
+  <circle cx="22" cy="27" r="5" fill="#7fd3f5"/>
+  <circle cx="22" cy="27" r="2.2" fill="#08202c"/>
+</svg>
